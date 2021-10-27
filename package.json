@@ -31,14 +31,14 @@
   "dependencies": {
     "@types/jest": "^25.2.1",
     "git-tools": "^0.3.0",
-    "jest": "^25.5.2",
+    "jest": "^27.3.1",
     "simple-git": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
-    "babel-jest": "^25.5.1",
-    "husky": "^4.2.5",
+    "babel-jest": "^27.3.1",
+    "husky": "^7.0.4",
     "lint-staged": "^10.2.1"
   }
 }
